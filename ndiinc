@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Architecture and Designs</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Computer Architecture and Designs</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#basic-architecture">Basic Architecture</a></li>
+            <li><a href="#advanced-architecture">Advanced Architecture</a></li>
+            <li><a href="#design-patterns">Design Patterns</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>Welcome to our website explaining computer architecture and designs. Here you will learn about the fundamental concepts and principles behind computer architecture and various design approaches.</p>
+        </section>
+        <section id="basic-architecture">
+            <h2>Basic Architecture</h2>
+            <p>In this section, we'll cover the basic components of computer architecture, including CPU, memory, input/output devices, and how they interact to perform computations.</p>
+        </section>
+        <section id="advanced-architecture">
+            <h2>Advanced Architecture</h2>
+            <p>Explore advanced topics in computer architecture, such as pipelining, caching, parallel processing, and how they contribute to improving performance and efficiency.</p>
+        </section>
+        <section id="design-patterns">
+            <h2>Design Patterns</h2>
+            <p>Discover common design patterns used in computer architecture, such as von Neumann architecture, Harvard architecture, RISC vs. CISC, and their characteristics.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Computer Architecture Explained. All rights reserved.</p>
+    </footer>
+</body>
+</html>
